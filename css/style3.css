@@ -1,0 +1,72 @@
+.responsive-menu {
+    background-color: #0F1035;
+
+
+}
+
+.hamberger-menu {
+    border: 1px solid #365486;
+
+}
+
+nav ul li {
+    background-color: #0F1035;
+
+}
+
+
+#main-content {
+    background-color: #ffffff;
+
+    border-left: 1.93px dashed #0F1035;
+    
+}
+
+.decorate-content {
+    border-bottom: 1px dashed #333;
+}
+
+.layout-topic {
+    border: 3px solid #0F1035;
+    background-color: #DCF2F1;
+
+}
+
+.head-topic {
+    color: #0F1035;
+}
+
+.paragraph {
+    color: #0F1035;
+}
+
+.highlight {
+    color: #7FC7D9;
+}
+
+.topic {
+    color: #365486;
+    border-left: 10px solid #0F1035;
+}
+
+.card {
+    background-color: #F8FAE5;
+    border: 1px solid #B19470;
+}
+
+
+.card h3 {
+    color: #0F1035;
+}
+
+
+footer {
+    background-color: #0F1035;
+    color: #fff;
+}
+
+.modal-content h1 {
+    background-color: #0F1035;
+    color: #ffffff;
+}
+
