@@ -1,0 +1,71 @@
+.responsive-menu {
+    background-color: #fc803d;
+
+
+}
+
+.hamberger-menu {
+    border: 1px solid #FEF1E6;
+
+}
+
+nav ul li {
+    background-color: #fc803d;
+
+}
+
+
+#main-content {
+    background-color: #ffffff;
+    border-left: 1.93px dashed #fc803d;
+    
+}
+
+.decorate-content {
+    border-bottom: 1px dashed #fc803d;
+}
+
+.layout-topic {
+    border: 3px solid #fc803d;
+    background-color: #FEF1E6;
+
+}
+
+.head-topic {
+    color: #fc803d;
+}
+
+.paragraph {
+    color: #FFB085;
+}
+
+.highlight {
+    color: #fc803d;
+}
+
+.topic {
+    color: #FFB085;
+    border-left: 10px solid #fc803d;
+}
+
+.card {
+    background-color: #F8FAE5;
+    border: 1px solid #B19470;
+}
+
+
+.card h3 {
+    color: #fc803d;
+}
+
+
+footer {
+    background-color: #fc803d;
+    color: #fff;
+}
+
+.modal-content h1 {
+    background-color: #fc803d;
+    color: #ffffff;
+}
+

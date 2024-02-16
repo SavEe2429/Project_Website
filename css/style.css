@@ -98,7 +98,7 @@ nav .home:hover span {
 }
 
 nav .home:hover li {
-    width: 105px;
+    width: 185px;
     transition: 0.3s ease-in-out;
 }
 
@@ -107,7 +107,7 @@ nav .about:hover span {
 }
 
 nav .about:hover li {
-    width: 110px;
+    width: 170px;
     transition: 0.3s ease-in-out;
 }
 
@@ -116,7 +116,7 @@ nav .img-video:hover span {
 }
 
 nav .img-video:hover li {
-    width: 150px;
+    width: 210px;
     transition: 0.3s ease-in-out;
 }
 
@@ -125,7 +125,7 @@ nav .refer:hover span {
 }
 
 nav .refer:hover li {
-    width: 140px;
+    width: 255px;
     transition: 0.3s ease-in-out;
 }
 
